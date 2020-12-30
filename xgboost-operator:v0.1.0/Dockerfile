@@ -1,0 +1,1 @@
+From gcr.io/kubeflow-images-public/xgboost-operator:v0.1.0

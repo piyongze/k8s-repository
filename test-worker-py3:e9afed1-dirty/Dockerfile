@@ -1,0 +1,1 @@
+From gcr.io/kubeflow-ci/test-worker-py3:e9afed1-dirty

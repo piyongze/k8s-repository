@@ -1,0 +1,1 @@
+From gcr.io/kfserving/logger:v0.3.0

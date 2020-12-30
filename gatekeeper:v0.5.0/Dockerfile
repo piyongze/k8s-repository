@@ -1,0 +1,1 @@
+From gcr.io/kubeflow-images-public/gatekeeper:v0.5.0
